@@ -1,0 +1,11 @@
+.vscode/settings.json
+arithSub.o
+bitpack_Caller.o
+bitpack.o
+compress.o
+image
+image.o
+ppmdiff.o
+readPnm.o
+RGBconvert.o
+uarray2.o
