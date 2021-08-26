@@ -9,3 +9,4 @@ ppmdiff.o
 readPnm.o
 RGBconvert.o
 uarray2.o
+*.jpg

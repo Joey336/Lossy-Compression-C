@@ -8,7 +8,7 @@ This algorithm works by reading the image as 2x2 blocks of pixels, converting th
 
 Program can be compiled by running: ```bash compile```
 
-You can compress one of the example files by running: ```./image -c example/<filename> > <outputFilename>```
+You can compress one of the example files by running: ```./image -c examplePnm/<filename> > <outputFilename>```
 
 You can decompress a compressed file by running: ```./image -d <compressedFile> > <outputFilename.ppm>```
 
